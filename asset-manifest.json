@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Notes-Making-App--ApnaNotes/static/js/main.5fe150a0.chunk.js",
+    "main.js.map": "/Notes-Making-App--ApnaNotes/static/js/main.5fe150a0.chunk.js.map",
+    "runtime-main.js": "/Notes-Making-App--ApnaNotes/static/js/runtime-main.9fbd5cac.js",
+    "runtime-main.js.map": "/Notes-Making-App--ApnaNotes/static/js/runtime-main.9fbd5cac.js.map",
+    "static/js/2.13e6c72f.chunk.js": "/Notes-Making-App--ApnaNotes/static/js/2.13e6c72f.chunk.js",
+    "static/js/2.13e6c72f.chunk.js.map": "/Notes-Making-App--ApnaNotes/static/js/2.13e6c72f.chunk.js.map",
+    "index.html": "/Notes-Making-App--ApnaNotes/index.html",
+    "precache-manifest.d8d73cab0399038f19f1b2d5464daf6b.js": "/Notes-Making-App--ApnaNotes/precache-manifest.d8d73cab0399038f19f1b2d5464daf6b.js",
+    "service-worker.js": "/Notes-Making-App--ApnaNotes/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fbd5cac.js",
+    "static/js/2.13e6c72f.chunk.js",
+    "static/js/main.5fe150a0.chunk.js"
+  ]
+}
